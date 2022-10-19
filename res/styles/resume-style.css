@@ -17,3 +17,12 @@ h3{
     float: right;
     line-height: 10px;
 }
+
+.body-experience {
+    display: inline-block;
+}
+
+.body-project {
+    width: 50%;
+    float: right;
+}

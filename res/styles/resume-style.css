@@ -2,6 +2,11 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+p, li {
+    text-align: justify;
 }
 
 h3{
@@ -11,9 +16,26 @@ h3{
 
 .heading {
     display: inline-block;
+    width: 49%;
 }
 
 .contact {
     float: right;
     line-height: 10px;
+}
+
+.body-experience{
+    float: left;
+}
+
+.body-project{
+    float: right;
+}
+
+.design-float-left{
+    float: left;
+}
+
+.design-float-right{
+    float: right;
 }
